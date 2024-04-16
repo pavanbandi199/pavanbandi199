@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavanbandi199
-- 👀 I’m interested in Java and Android developing
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on some flutter projects
+- 👀 I’m interested in Frontend Developing
+- 🌱 I’m currently learning Node js
+- 💞️ I’m looking to collaborate on some React Projects
 - 📫 How to reach me 
 - email id- pavanbandi1999@gmail.com
 
