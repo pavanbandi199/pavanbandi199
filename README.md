@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavanbandi199
-- 👀 I’m interested in Frontend Developing
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on some React Projects
 - 📫 How to reach me 
