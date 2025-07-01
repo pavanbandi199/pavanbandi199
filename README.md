@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavanbandi199
-- 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning Next.JS
+- 👀 I’m a Software Developer
+- 🌱 I’m currently learning Java
 - 📫 How to reach me - pavanbandi1999@gmail.com / https://www.linkedin.com/in/pavanbandi1999/
 - 📄 Know about my experiences
 
